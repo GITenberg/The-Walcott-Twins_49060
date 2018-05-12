@@ -1,16 +1,22 @@
 _repo: The-Walcott-Twins_49060
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Waugh, Ida
     deathdate: 1919
     gutenberg_agent_id: '35818'
     url: http://www.gutenberg.org/2009/agents/35818
+covers:
+- cover_type: archival
+  image_path: 49060-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovell, Lucile
     gutenberg_agent_id: '45117'
     url: http://www.gutenberg.org/2009/agents/45117
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49060#The-Walcott-Twins
 gutenberg_issued: '2015-05-27'
 gutenberg_type: Text
 identifiers:
